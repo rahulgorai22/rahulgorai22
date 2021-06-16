@@ -11,7 +11,7 @@
 
 - 👨‍💻 Currently working on creating scalable backend using GO and Python. 
 - 📚 Learning everything about Frontend and Backend technologies 😉
-- Good in data visualisation using verious techs.
+- 👨‍ Good in python data visualisation using various techs.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Open for freelancing and hackathons
 
